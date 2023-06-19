@@ -1,0 +1,76 @@
+{
+  "shop_item": [
+    {
+      "id": 1,
+      "name": "Jordan One Paris",
+      "price": 165,
+      "imgUrl": "./assets/img/main/1.png"
+    },
+    {
+      "id": 2,
+      "name": "Nike Dunk High Up WMNS",
+      "price": 250,
+      "imgUrl": "/assets/img/main/2.png"
+    },
+    {
+      "id": 3,
+      "name": "Nike Shox TL White",
+      "price": 195,
+      "imgUrl": "assets/img/main/3.png"
+    },
+    {
+      "id": 4,
+      "name": "Nike Shox TL White",
+      "price": 195,
+      "imgUrl": "assets/img/main/4.png"
+    },
+    {
+      "id": 5,
+      "name": "Nike Shox TL White",
+      "price": 195,
+      "imgUrl": "assets/img/main/5.png"
+    },
+    {
+      "id": 6,
+      "name": "Nike Shox TL White",
+      "price": 195,
+      "imgUrl": "assets/img/main/6.png"
+    },
+    {
+      "id": 7,
+      "name": "Nike Shox TL White",
+      "price": 195,
+      "imgUrl": "assets/img/main/7.png"
+    },
+    {
+      "id": 8,
+      "name": "Nike Shox TL White",
+      "price": 195,
+      "imgUrl": "assets/img/main/8.png"
+    },
+    {
+      "id": 9,
+      "name": "Nike Shox TL White",
+      "price": 195,
+      "imgUrl": "assets/img/main/9.png"
+    },
+    {
+      "id": 10,
+      "name": "Nike Shox TL White",
+      "price": 195,
+      "imgUrl": "assets/img/main/10.png"
+    },
+    {
+      "id": 11,
+      "name": "Nike Shox TL White",
+      "price": 195,
+      "imgUrl": "assets/img/main/11.png"
+    },
+    {
+      "id": 12,
+      "name": "Nike Shox TL White",
+      "price": 195,
+      "imgUrl": "assets/img/main/12.png"
+    }
+  ]
+}

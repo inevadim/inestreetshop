@@ -1,0 +1,53 @@
+.wrapper{
+    width: 24.6vw;
+    height: 45vh;
+    background-color: green;
+    // margin-left: 10px;
+    margin-bottom: 10px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.4);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.4);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.4);
+    
+    img{
+        width: 100%;
+        height: 100%;
+    }
+
+    .wrapperName{
+        font-size: 0px;
+        position: relative;
+        top:-45.4vh;
+        height:45vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        color: rgb(166, 170, 173);
+        font-weight: 600;
+        text-shadow: rgba(37, 43, 75, 0.404) 3px 5px 2px;
+        // cursor: pointer; 
+
+        &:hover{
+            backdrop-filter: blur(3px) saturate(200%);
+            -webkit-backdrop-filter: blur(3px) saturate(200%);
+            background-color: rgba(17, 25, 40, 0.689);
+            font-size: 20px;       
+        }   
+
+        .name{
+            margin-bottom: 20px;
+        }
+
+       .sell{
+            color: green;
+            cursor: pointer;
+            margin-top: 20px;
+            &:hover{
+                letter-spacing: 2px;
+               
+            }
+       }
+
+    }
+
+}

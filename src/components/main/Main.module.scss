@@ -1,0 +1,22 @@
+.wrapper{
+    // margin-top: 20px;
+    width: 100vw;
+    overflow-x: hidden;
+    height: calc(100vh - 80px);
+    // background-color: red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    &::-webkit-scrollbar{
+        width: 8px;           
+    }
+    &::-webkit-scrollbar-thumb{
+        width: 20px;
+        height: 20px;
+        background: rgb(142, 139, 146);
+    }
+    &::-webkit-scrollbar-track{
+        background: #dddd;
+    }
+ 
+}

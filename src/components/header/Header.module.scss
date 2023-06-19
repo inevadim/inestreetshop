@@ -1,0 +1,47 @@
+.wrapper{
+    width: 100vw;
+    height: 80px;
+    // margin-bottom: 10px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.4);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.4);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .textWrapper{
+        width: 80vw;
+        font-weight: 800;
+        font-size: 24px;
+        font-family: "Roboto", "Helvetica Neue", Helvetica, sans-serif;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        letter-spacing: 3px;
+        color: rgb(44, 45, 45);
+        text-shadow: rgba(72, 22, 20, 0.404) 3px 5px 2px;
+
+        .text{
+            letter-spacing: 3px;
+            font-size: 16px;
+            font-weight: 600;
+            color: rgb(130, 130, 131);
+        }
+    }
+
+    .shop{
+        font-size: 30px;
+        height: 30px;
+        cursor: pointer;
+        
+        .countShop{
+            position: relative;
+            font-size: 15px;
+            top:-40px;
+            left: 25px;
+            font-weight: 600;
+        }
+    }
+    
+}
